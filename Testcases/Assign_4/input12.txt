@@ -1,0 +1,10 @@
+9 40
+20 bcdefghijklmnopqrstu
+29 bcdefghijklmnopqrstuvwxyzabcd
+31 bcdefghijklmnopqrstuvwxyzabcdef
+11 bcdefghijkl
+21 bcdefghijklmnopqrstuv
+8 bcdefghi
+32 bcdefghijklmnopqrstuvwxyzabcdefg
+10 bcdefghijk
+34 bcdefghijklmnopqrstuvwxyzabcdefghi
