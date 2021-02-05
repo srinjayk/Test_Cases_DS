@@ -1,0 +1,11 @@
+10 40
+27 bcdefghijklmnopqrstuvwxyzab
+36 bcdefghijklmnopqrstuvwxyzabcdefghijk
+38 bcdefghijklmnopqrstuvwxyzabcdefghijklm
+18 bcdefghijklmnopqrs
+28 bcdefghijklmnopqrstuvwxyzabc
+15 bcdefghijklmnop
+39 bcdefghijklmnopqrstuvwxyzabcdefghijklmn
+17 bcdefghijklmnopqr
+2 bc
+21 bcdefghijklmnopqrstuv

@@ -1,0 +1,6 @@
+5 40
+33 bcdefghijklmnopqrstuvwxyzabcdefgh
+16 bcdefghijklmnopq
+27 bcdefghijklmnopqrstuvwxyzab
+5 bcdef
+3 bcd
